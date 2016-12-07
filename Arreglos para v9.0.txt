@@ -1,0 +1,29 @@
+-En el registrar incidencias, primero sacar el txtbox del detalle, el usuario operador es el que carga los detalles de la misma
+
+-en el administrar incidencias, crear una consulta que muestre las primeras 100 (data set), tener en cuenta que podriamos hacer por paginas con botoncitos de siguiente y anterior.
+
+-sacar el boton max de todas los forms
+
+-la profe tiene ganas de que todo sea enormed(criticidad nula)
+
+-hacer los try/catch (criticidad jodida)
+
+-dispositivosxarea sacarlo a la bosta
+
+-arreglar los tab_indes (criticidad baja)
+
+TRANSACCION 1: detalle de incidencia
+TRANSACCION 2: gestion de usuarios // no sabemos hacerlo, que problema
+
+vamos a usar la tabla Usuario, cambiar tambien tipousuario, se tiene que llamar perfil --> COMPLETADO
+
+
+
+27 - 244
+340 - 244
+boton arriba 284 - 244
+boton abajo 284 - 273
+
+
+
+agregar una duracion a la incidencia para la transaccion viejaaa

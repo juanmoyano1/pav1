@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B1F172B4-8B3A-4203-9525-0ABFB26EAD2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>PRO SyGI v1.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PRO SyGI v1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PRO SyGI v1.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDHelper\BDHelper.vb" />
+    <Compile Include="Dispositivo\DispositivoXArea\CapaNegocio_DispositivoXArea.vb" />
+    <Compile Include="Dispositivo\DispositivoXArea\DispositivoXArea.vb" />
+    <Compile Include="Dispositivo\Area\Area.vb" />
+    <Compile Include="Dispositivo\Area\CapaDatos_area.vb" />
+    <Compile Include="Dispositivo\Area\CapaLogicaNegocio_area.vb" />
+    <Compile Include="Dispositivo\CapaDatos_dispositivo.vb" />
+    <Compile Include="Dispositivo\CapaLogicaNegocio_dispositivo.vb" />
+    <Compile Include="Dispositivo\Dispositivo.vb" />
+    <Compile Include="Dispositivo\TipoDispositivo\CapaDatos_TipoDispositivo.vb" />
+    <Compile Include="Dispositivo\TipoDispositivo\CapaLogicaNegocio_TipoDispositivo.vb" />
+    <Compile Include="Dispositivo\TipoDispositivo\TipoDispositivo.vb" />
+    <Compile Include="Incidencia\Registrar Incidencia\Reg_Incidencia.vb" />
+    <Compile Include="Incidencia\Registrar Incidencia\Reg_Incidencia_Datos.vb" />
+    <Compile Include="Incidencia\Registrar Incidencia\Reg_Incidencia_Negocio.vb" />
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dispositivo\Area\CapaInterfaz_area.Designer.vb">
+      <DependentUpon>CapaInterfaz_area.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dispositivo\Area\CapaInterfaz_area.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Incidencia\CapaDatos_Incidencia.vb" />
+    <Compile Include="Incidencia\CapaNegocio_Incidencia.vb" />
+    <Compile Include="Incidencia\Clases\DetalleIncidencia.vb" />
+    <Compile Include="Incidencia\Clases\Estado.vb" />
+    <Compile Include="Incidencia\Clases\Incidencia.vb" />
+    <Compile Include="Incidencia\Clases\Prioridad.vb" />
+    <Compile Include="Incidencia\Registrar Incidencia\form_registrarIncidencia.Designer.vb">
+      <DependentUpon>form_registrarIncidencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Incidencia\Registrar Incidencia\form_registrarIncidencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\..\..\v9.3\form_gestionIncidencia.Designer.vb">
+      <DependentUpon>form_gestionIncidencia.vb</DependentUpon>
+      <Link>Incidencia\form_gestionIncidencia.Designer.vb</Link>
+    </Compile>
+    <Compile Include="..\..\..\v9.3\form_gestionIncidencia.vb">
+      <SubType>Form</SubType>
+      <Link>Incidencia\form_gestionIncidencia.vb</Link>
+    </Compile>
+    <Compile Include="Dispositivo\CapaInterfaz_dispositivo.Designer.vb">
+      <DependentUpon>CapaInterfaz_dispositivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dispositivo\CapaInterfaz_dispositivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dispositivo\TipoDispositivo\CapaInterfaz_TipoDispositivo.Designer.vb">
+      <DependentUpon>CapaInterfaz_TipoDispositivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dispositivo\TipoDispositivo\CapaInterfaz_TipoDispositivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Usuario.vb" />
+    <Compile Include="Usuario\Adm_Perfil\Perfil.vb" />
+    <Compile Include="Usuario\Adm_Perfil\Usr_Adm_PerfilXPermisos_DATOS.vb" />
+    <Compile Include="Usuario\Adm_Perfil\Usr_Adm_PerfilXPermisos_Negocio.vb" />
+    <Compile Include="Usuario\Usr.vb" />
+    <Compile Include="Usuario\Adm_Perfil\Usr_Adm_PerfilXPermisos.Designer.vb">
+      <DependentUpon>Usr_Adm_PerfilXPermisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\Adm_Perfil\Usr_Adm_PerfilXPermisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario\usr_CapaDatos.vb" />
+    <Compile Include="Usuario\Usr_CapaNegocio.vb" />
+    <Compile Include="Usuario\Usr_interfaz.Designer.vb">
+      <DependentUpon>Usr_interfaz.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario\Usr_interfaz.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dispositivo\Area\CapaInterfaz_area.resx">
+      <DependentUpon>CapaInterfaz_area.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Incidencia\Registrar Incidencia\form_registrarIncidencia.resx">
+      <DependentUpon>form_registrarIncidencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\..\v9.3\form_gestionIncidencia.resx">
+      <DependentUpon>form_gestionIncidencia.vb</DependentUpon>
+      <Link>Incidencia\form_gestionIncidencia.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dispositivo\CapaInterfaz_dispositivo.resx">
+      <DependentUpon>CapaInterfaz_dispositivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dispositivo\TipoDispositivo\CapaInterfaz_TipoDispositivo.resx">
+      <DependentUpon>CapaInterfaz_TipoDispositivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\Adm_Perfil\Usr_Adm_PerfilXPermisos.resx">
+      <DependentUpon>Usr_Adm_PerfilXPermisos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario\Usr_interfaz.resx">
+      <DependentUpon>Usr_interfaz.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hardware.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

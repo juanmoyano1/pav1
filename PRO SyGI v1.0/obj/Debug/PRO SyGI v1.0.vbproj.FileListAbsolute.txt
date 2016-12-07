@@ -1,0 +1,506 @@
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_regIncidente.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_regIncidente.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_agregarTipoDispositivo.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_regIncidente.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form4.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_agregarTipoDispositivo.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+D:\Marvo\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_agregarTipoDispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v2\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_agregarTipoDispositivo.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_agregarTipoDispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\yo\Desktop\Facu\3º\PAV I\PRO SyGI\v3\PRO_SyGI_v1.0-2015-09-02\PRO SyGI v1.0\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidente.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v4\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v5\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v1.5\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v6\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+D:\Juan\Proyectos Visual Studio\v7\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\yo\Desktop\v8-2015-09-26\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\yo\Desktop\v8\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\muriarte\Desktop\v9\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v9.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\Juan\Desktop\Pro sygy\v9.3\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\v10\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v10\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\Juan\Google Drive\PAVI\PRO SyGI\v10.1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\Pro sygy\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\Juan\Desktop\Pro sygy\mODIFICAR iNTERFAZ\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+D:\Morvon\PAV\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v12\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+D:\pito\v13\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v14\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Google Drive\UTN\3er Año\PAVI\PRO SyGI\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v14\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_login.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_login.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v11\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_login.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+C:\Users\muriarte\Desktop\v15\Modificar Interfaz\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.pdb
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.xml
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbprojResolveAssemblyReference.cache
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidenciaV2.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_gestionIncidencia_agregarEncargado.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frm_login.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.frmPrincipal.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_area.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.form_registrarIncidencia.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_dispositivo.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.CapaInterfaz_TipoDispositivo.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Resources.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Reporte.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_Adm_PerfilXPermisos.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\WindowsApplication1.Usr_interfaz.resources
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v16.1\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.vbproj.GenerateResource.Cache
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v17\v16\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v17\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v17\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+D:\Juan\Facultad\Programacion de Aplicaciones Visuales I\v17\v16\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
+C:\Users\juanm\Documents\GitHub\pav1\PRO SyGI v1.0\bin\Debug\PRO SyGI v1.0.exe.config
+C:\Users\juanm\Documents\GitHub\pav1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.exe
+C:\Users\juanm\Documents\GitHub\pav1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.xml
+C:\Users\juanm\Documents\GitHub\pav1\PRO SyGI v1.0\obj\Debug\PRO SyGI v1.0.pdb
